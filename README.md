@@ -87,3 +87,8 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 
 Open Jupyter Notebook
 Run all cells in order
+📌 Future Improvements
+Add confusion matrix visualization
+Hyperparameter tuning
+Add model performance comparison
+Deploy model using Flask or FastAPI
