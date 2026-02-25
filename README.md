@@ -1,7 +1,7 @@
 🧠 Breast Cancer Classification using Neural Network
 
 ### What Does This Model Do?
-In your project:
+In this project:
 The model takes 30 medical features of a tumor as input
 and predicts whether the tumor is:
 Malignant (Cancerous)
@@ -20,7 +20,7 @@ After training, it can predict on new unseen data
 Think of it like this:
 A doctor studies thousands of past reports.
 After experience, the doctor can look at new reports and say whether the tumor is dangerous or not.
-Your neural network model does the same thing — but mathematically.
+this neural network model does the same thing — but mathematically.
 
 📌 Project Overview
 This project implements a Deep Learning model to classify breast cancer tumors as Malignant or Benign using a Neural Network built with TensorFlow and Keras.
